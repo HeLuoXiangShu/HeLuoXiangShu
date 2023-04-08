@@ -8,7 +8,7 @@ Welcome to my personal website. I am a fan of Vedic Astrology and Chinese I Chin
 📮heluoxiangshu@protonmail.ch
 
 ## 社交媒體 Social Media
-小紅書 Xiaohongshu
+[小紅書 Xiaohongshu](https://www.xiaohongshu.com/user/profile/614710d700000000020211da?xhsshare=CopyLink&appuid=614710d700000000020211da&apptime=1680941008)
 
 [如果喜歡我的創作可以給我買杯咖啡 support me at buymeacoffee](https://www.buymeacoffee.com/Jyotisha/)
 
