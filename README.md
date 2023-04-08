@@ -14,7 +14,6 @@ Welcome to my personal website. I am a fan of Vedic Astrology and Chinese I Chin
 
 ## 博文目錄 Content
 
-橋本環奈 上天的寵兒 
-Kanna Hashimoto—the Apple of God's Eye
+[橋本環奈 上天的寵兒 Kanna Hashimoto—the Apple of God's Eye](https://github.com/HeLuoXiangShu/Kanna-Hashimoto-the-Apple-of-God-s-Eye/blob/main/README.md)
 
 
