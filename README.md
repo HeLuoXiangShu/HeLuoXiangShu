@@ -6,7 +6,9 @@ Welcome to my personal website. I am a fan of Vedic Astrology and Chinese I Chin
 
 ## 聯繫方式 Contact
 📮heluoxiangshu@protonmail.ch
+
 iMessage:heluoxiangshu@protonmail.ch
+
 Zoom:heluoxiangshu@protonmail.ch
 
 ## 社交媒體 Social Media
