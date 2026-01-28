@@ -11,8 +11,12 @@ iMessage:heluoxiangshu@protonmail.ch
 
 Zoom:heluoxiangshu@protonmail.ch
 
+X:https://x.com/HeLuoXiangShu
+
 ## 社交媒體 Social Media
 [YouTube](https://www.youtube.com/channel/UCzROf7CoGqbjQEXmiVlhjyA)
+
+[X](https://x.com/HeLuoXiangShu)
 
 [小紅書 Xiaohongshu](https://www.xiaohongshu.com/user/profile/614710d700000000020211da?xhsshare=CopyLink&appuid=614710d700000000020211da&apptime=1680941008)
 
