@@ -28,4 +28,4 @@ X:https://x.com/HeLuoXiangShu
 
 [星盤與抑鬱症 Natal Chart and Depression](https://github.com/HeLuoXiangShu/Natal-Chart-and-Depression/blob/main/README.md)
 
-[四柱八字与社会结构的关系：基于生克关系的社会系统分析 The Relationship Between the Four Pillars (Ba Zi) and Social Structure: A Social Systems Analysis Based on Generation-Restriction Relationships](https://github.com/HeLuoXiangShu/Four-Pillars-and-Social-Structure-A-Social-Systems-Analysis-Grounded-on-GRR)
+[四柱八字与社会结构的关系：基于生克关系的社会系统分析 The Relationship Between the Four Pillars (Ba Zi) and Social Structure: A Social Systems Analysis Based on Generation-Restriction Relationships](https://github.com/HeLuoXiangShu/Four-Pillars-and-Social-Structure-A-Social-Systems-Analysis-Based-on-GRR))
